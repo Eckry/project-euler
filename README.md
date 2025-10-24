@@ -1,1 +1,1 @@
-Solutions for problems in Project Euler.
+Solutions for the first 100 problems in Project Euler.
